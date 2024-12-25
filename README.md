@@ -1,5 +1,5 @@
-・ Portfolio : https://aroft-dev.xyz/
+・ Portfolio : Not for now
 
 ・ 🖥️ ➜ JS / PY • HTML/CSS
-・ 📚 ➜ ThreeJS, React, NextJS...
+・ 📚 ➜ React, NextJS...
 ・ 🚀 ➜ Developer Web • Bot Discord
